@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheckInSmart</string>
+    <string name="title_activity_admin">Admin</string>
+</resources>
