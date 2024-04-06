@@ -7,4 +7,5 @@ filtering options for easy access to attendance records. Employees can contribut
 
 ![Screenshot_20240127_173754](https://github.com/ShadmanShariar/SmartCheckIn_AndroidApp/assets/75669228/9fcd0ee3-3f4c-4db2-a796-5346f70a4b52)  ![Screenshot_20240127_174426](https://github.com/ShadmanShariar/SmartCheckIn_AndroidApp/assets/75669228/a5e356bc-716b-47d5-af04-308512ea0103)
 
-![Screenshot_20240127_173734](https://github.com/ShadmanShariar/SmartCheckIn_AndroidApp/assets/75669228/476d79b2-cc52-470e-8310-9e006bd2a908)
+![Screenshot_20240127_173734](https://github.com/ShadmanShariar/SmartCheckIn_AndroidApp/assets/75669228/476d79b2-cc52-470e-8310-9e006bd2a908)  ![piechart](https://github.com/ShadmanShariar/SmartCheckIn_AndroidApp/assets/75669228/a1e08cdc-335c-4e31-893b-6a7710fb9881)
+
