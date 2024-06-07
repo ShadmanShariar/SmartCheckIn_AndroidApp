@@ -3,7 +3,7 @@
 **Smart Check In :** In this Android App I Developed an efficient and user friendly Android Application. Admin privileges to invite new employees via email invitation and manually. Employee registration and profile management.Check-in and check-out functionality for employees. Graphical representation of attendance data through graphs and pie charts. Advanced
 filtering options for easy access to attendance records. Employees can contribute to office discussions by writing blogs in office groups. Admin approval ensures quality before posts are shared with the workforce. Creation of chat groups for enhanced communication among office employees with task assignment feature.
 
-**Technologies Used :** Android Studio, Java, XML, Material UI, SQLite Database, DB Browser Tools, API Integration.
+**Technologies Used :** Android Studio, Java, XML, Material UI, SQLite Database, DB Browser Tools, API Integration etc.
 
 ## Application User Interface
 
